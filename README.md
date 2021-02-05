@@ -14,6 +14,13 @@ Json for swop.fi
 4) sUSDLP_USD-N: 9Pm2c97VzGSK6p8XGMCFABs575K9Cb35GdKtzwVA59m9
 5) sSWOP_USD-N: ESg4EvZaY74xe3p2dxHeXpV3RNeJd7fda4aN9RtL4bzn
 
+## Token Decimals
+1) sUSDT_USD-N:  6 decimals
+2) sNSBT_USD-N:  6 decimals
+3) WAVES/USDN: 6 decimals
+4) sUSDLP_USD-N: 6 decimals
+5) sSWOP_USD-N: 7 decimals
+
 ## Stake usdn/usdt token to farming pool
 
 String value = dapp from pool
