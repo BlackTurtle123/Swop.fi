@@ -60,3 +60,21 @@ Json for swop.fi
 }
 ```
 
+#Claim swop early bird
+
+
+```
+{
+  "type": 16,
+  "fee": 500000,
+  "feeAssetId": null,
+  "version": 2,
+  "chainId": 87,
+  "dApp": "3PJuspTjxHhEJQjMEmLM5upiGQYCtCi5LyD",
+  "payment": [],
+  "call": {
+    "function": "claimSWOP",
+    "args": []
+  }
+  }
+  ```
