@@ -135,3 +135,24 @@ String Value = pool dapp address
   "proofs": []
 }
   ```
+## Governance token stake
+  ```
+{
+  "type": 16,
+  "version": 2,
+  "dApp": "3PLHVWCqA9DJPDbadUofTohnCULLauiDWhS",
+  "call": {
+    "args": [ ],
+    "function": "lockSWOP"
+  },
+  "payment": [
+    {
+      "assetId": "Ehie5xYpeN8op1Cctc6aGUrqx8jq3jtf1DSjXDbfm7aT",
+      "amount": "100000000"
+    }
+  ],
+  "fee": 500000,
+  "feeAssetId": null,
+  "chainId": 87
+}
+  ```
