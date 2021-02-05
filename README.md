@@ -5,12 +5,14 @@ Json for swop.fi
 2) USDN/NSBT: 3P2V63Xd6BviDkeMzxhUw2SJyojByRz8a8m
 3) WAVES/USDN: 3PHaNgomBkrvEL2QnuJarQVJa71wjw9qiqG
 4) sUSDLP_USD-N: 3PDWi8hjQJjXhyTpeaiEYfFKWBd1iC4udfF
+5) sSWOP_USD-N: 3P27S9V36kw2McjWRZ37AxTx8iwkd7HXw6W
 
 ## Token ID's
 1) sNSBT_USD-N:  HWFcdC9wjPJY1udkR2UsfXzyPptzBb9m6df8qUW6LNLo
 2) sUSDT_USD-N:  BNQ8bxyiWvfHzHAtNyfc6E7v3sSHXKq8yuit6Fnz1A3Q
 3) WAVES/USDN: Btw3G1j4wQgdp49PTxaFkNvn75dQtqGDM7ejQppHnWC1
 4) sUSDLP_USD-N: 9Pm2c97VzGSK6p8XGMCFABs575K9Cb35GdKtzwVA59m9
+5) sSWOP_USD-N: ESg4EvZaY74xe3p2dxHeXpV3RNeJd7fda4aN9RtL4bzn
 
 ## Stake usdn/usdt token to farming pool
 
