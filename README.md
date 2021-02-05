@@ -1,17 +1,22 @@
 # Swop.fi
 Json for swop.fi
-#Pools
+## Pools
 1) USDN/USDT: 3PPH7x7iqobW5ziyiRCic19rQqKr6nPYaK1
 
 2) USDN/NSBT: 3P2V63Xd6BviDkeMzxhUw2SJyojByRz8a8m
 
 3) WAVES/USDN: 3PHaNgomBkrvEL2QnuJarQVJa71wjw9qiqG
 
-#Token ID's
+## Token ID's
 1) sNSBT_USD-N:  HWFcdC9wjPJY1udkR2UsfXzyPptzBb9m6df8qUW6LNLo
 2) sUSDT_USD-N:  BNQ8bxyiWvfHzHAtNyfc6E7v3sSHXKq8yuit6Fnz1A3Q
 3) WAVES/USDN: Btw3G1j4wQgdp49PTxaFkNvn75dQtqGDM7ejQppHnWC1
-#Stake usdn/usdt token to farming pool
+
+## Stake usdn/usdt token to farming pool
+
+String value = dapp from pool
+
+AssetId = assetId from pool token
 ```
 
 {
@@ -39,7 +44,9 @@ Json for swop.fi
 }
 ```
 
-#Unstake NSBT/USDN
+## Unstake NSBT/USDN
+String value = dapp from pool
+
 ```
 
 {
@@ -66,8 +73,7 @@ Json for swop.fi
 }
 ```
 
-#Claim swop early bird
-
+## Claim swop early bird
 
 ```
 {
@@ -84,7 +90,7 @@ Json for swop.fi
   }
   }
   ```
-#Lock swop
+## Lock swop
   ```
 {
   "type": 16,
@@ -106,7 +112,8 @@ Json for swop.fi
 }
   ```
 
-#Claim normal swop
+## Claim normal swop
+String Value = pool dapp address
   ```
 {
   "type": 16,
