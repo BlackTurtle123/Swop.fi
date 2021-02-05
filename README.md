@@ -81,3 +81,24 @@ Json for swop.fi
   }
   }
   ```
+#Lock swop
+  ```
+{
+  "type": 16,
+  "fee": 500000,
+  "feeAssetId": null,
+  "version": 2,
+  "chainId": 87,
+  "dApp": "3PLHVWCqA9DJPDbadUofTohnCULLauiDWhS",
+  "payment": [
+    {
+      "amount": 58713,
+      "assetId": "Ehie5xYpeN8op1Cctc6aGUrqx8jq3jtf1DSjXDbfm7aT"
+    }
+  ],
+  "call": {
+    "function": "lockSWOP",
+    "args": []
+  }
+}
+  ```
