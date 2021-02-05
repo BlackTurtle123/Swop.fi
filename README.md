@@ -5,6 +5,9 @@ Json for swop.fi
 
 2) USDN/NSBT: 3P2V63Xd6BviDkeMzxhUw2SJyojByRz8a8m
 
+#Token ID's
+1) USDN/USDT: BNQ8bxyiWvfHzHAtNyfc6E7v3sSHXKq8yuit6Fnz1A3Q 
+
 #Stake usdn/usdt token to farming pool
 ```
 
