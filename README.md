@@ -105,3 +105,26 @@ Json for swop.fi
   }
 }
   ```
+
+#Claim normal swop
+  ```
+{
+  "type": 16,
+  "version": 2,
+  "dApp": "3P73HDkPqG15nLXevjCbmXtazHYTZbpPoPw",
+  "call": {
+    "args": [
+      {
+        "type": "string",
+        "value": "3PPH7x7iqobW5ziyiRCic19rQqKr6nPYaK1"
+      }
+    ],
+    "function": "claim"
+  },
+  "payment": [],
+  "fee": 500000,
+  "feeAssetId": null,
+  "chainId": 87,
+  "proofs": []
+}
+  ```
