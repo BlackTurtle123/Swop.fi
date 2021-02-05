@@ -6,6 +6,8 @@ Json for swop.fi
 2) USDN/NSBT: 3P2V63Xd6BviDkeMzxhUw2SJyojByRz8a8m
 
 #Stake usdn/usdt token to farming pool
+```
+
 {
   "type": 16,
   "version": 2,
@@ -29,8 +31,11 @@ Json for swop.fi
   "feeAssetId": null,
   "chainId": 87
 }
+```
 
 #Unstake NSBT/USDN
+```
+
 {
     "type": 16,
     "version": 2,
@@ -53,3 +58,5 @@ Json for swop.fi
     "feeAssetId": null,
     "chainId": 87
 }
+```
+
