@@ -156,3 +156,25 @@ String Value = pool dapp address
   "chainId": 87
 }
   ```
+  
+## Governance token wd
+  ```
+{
+  "type": 16,
+  "version": 2,
+  "dApp": "3PLHVWCqA9DJPDbadUofTohnCULLauiDWhS",
+  "call": {
+    "args": [
+      {
+        "type": "integer",
+        "value": 100000000
+      }
+    ],
+    "function": "withdrawSWOP"
+  },
+  "payment": [],
+  "fee": 500000,
+  "feeAssetId": null,
+  "chainId": 87
+}
+  ```
