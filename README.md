@@ -1,18 +1,22 @@
 # Swop.fi
 Json for swop.fi
-## Pools
+## Pools DApp Address
 1) USDN/USDT: 3PPH7x7iqobW5ziyiRCic19rQqKr6nPYaK1
-2) USDN/NSBT: 3P2V63Xd6BviDkeMzxhUw2SJyojByRz8a8m
+2) NSBT/USDN: 3P2V63Xd6BviDkeMzxhUw2SJyojByRz8a8m
 3) WAVES/USDN: 3PHaNgomBkrvEL2QnuJarQVJa71wjw9qiqG
-4) sUSDLP_USD-N: 3PDWi8hjQJjXhyTpeaiEYfFKWBd1iC4udfF
-5) sSWOP_USD-N: 3P27S9V36kw2McjWRZ37AxTx8iwkd7HXw6W
+4) USDTLP/USDN: 3PDWi8hjQJjXhyTpeaiEYfFKWBd1iC4udfF
+5) SWOP/USDN: 3P27S9V36kw2McjWRZ37AxTx8iwkd7HXw6W
+6) BTC/USDN: 3PACj2DLTw3uUhsUmT98zHU5M4hPufbHKav
+7) WAVES/BTC: 3P8FVZgAJUAq32UEZtTw84qS4zLqEREiEiP
 
 ## Token ID's
 1) sUSDT_USD-N:  BNQ8bxyiWvfHzHAtNyfc6E7v3sSHXKq8yuit6Fnz1A3Q
 2) sNSBT_USD-N:  HWFcdC9wjPJY1udkR2UsfXzyPptzBb9m6df8qUW6LNLo
-3) WAVES/USDN: Btw3G1j4wQgdp49PTxaFkNvn75dQtqGDM7ejQppHnWC1
+3) sWAVES_USD-N: Btw3G1j4wQgdp49PTxaFkNvn75dQtqGDM7ejQppHnWC1
 4) sUSDLP_USD-N: 9Pm2c97VzGSK6p8XGMCFABs575K9Cb35GdKtzwVA59m9
 5) sSWOP_USD-N: ESg4EvZaY74xe3p2dxHeXpV3RNeJd7fda4aN9RtL4bzn
+6) sWBTC_USD-N: 58RNQJqLQ3tYYpkjuJujWzLzMX3nzpGn6bTC8LfLtgAM
+7) sWAVES_WBTC: 2DiiWi3RLuTYBj81iwACCSayD9d1aY2ucfoJUBDHiqH8
 
 ## Token Decimals
 1) sUSDT_USD-N:  6 decimals
@@ -20,6 +24,8 @@ Json for swop.fi
 3) WAVES/USDN: 7 decimals
 4) sUSDLP_USD-N: 6 decimals
 5) sSWOP_USD-N: 7 decimals
+6) sWBTC_USD-N: 7 decimals
+7) sWAVES_WBTC: 8 decimals
 
 ## Stake usdn/usdt token to farming pool
 
