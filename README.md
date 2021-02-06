@@ -166,3 +166,20 @@ String Value = pool dapp address
   "chainId": 87
 }
   ```
+  
+## Governance reward claim
+  ```
+{
+    "type": 16,
+    "fee": 500000,
+    "feeAssetId": null,
+    "version": 2,
+    "chainId": 87,
+    "dApp": "3PLHVWCqA9DJPDbadUofTohnCULLauiDWhS",
+    "payment": [],
+    "call": {
+        "function": "claimAndWithdrawSWOP",
+        "args": []
+    }
+}
+  ```
