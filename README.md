@@ -8,6 +8,7 @@ Json for swop.fi
 5) SWOP/USDN: 3P27S9V36kw2McjWRZ37AxTx8iwkd7HXw6W
 6) BTC/USDN: 3PACj2DLTw3uUhsUmT98zHU5M4hPufbHKav
 7) WAVES/BTC: 3P8FVZgAJUAq32UEZtTw84qS4zLqEREiEiP
+8) USDC/USDN: 3PNi1BJendWYYe2CRnqpfLoYxUZ6UTcx3LF
 
 ## Token ID's
 1) sUSDT_USD-N:  BNQ8bxyiWvfHzHAtNyfc6E7v3sSHXKq8yuit6Fnz1A3Q
@@ -17,6 +18,7 @@ Json for swop.fi
 5) sSWOP_USD-N: ESg4EvZaY74xe3p2dxHeXpV3RNeJd7fda4aN9RtL4bzn
 6) sWBTC_USD-N: 58RNQJqLQ3tYYpkjuJujWzLzMX3nzpGn6bTC8LfLtgAM
 7) sWAVES_WBTC: 2DiiWi3RLuTYBj81iwACCSayD9d1aY2ucfoJUBDHiqH8
+8) sUSD Coi_USD-N: 6en9RSUmqsh5j9sYeWYUvPM2r8QXVcwscdJorgdF3uxH
 
 ## Token Decimals
 1) sUSDT_USD-N:  6 decimals
@@ -26,6 +28,7 @@ Json for swop.fi
 5) sSWOP_USD-N: 7 decimals
 6) sWBTC_USD-N: 7 decimals
 7) sWAVES_WBTC: 8 decimals
+7) sUSD Coi_USD-N: 6 decimals
 
 ## Stake usdn/usdt token to farming pool
 
