@@ -10,6 +10,7 @@ Json for swop.fi
 7) WAVES/BTC: 3P8FVZgAJUAq32UEZtTw84qS4zLqEREiEiP
 8) USDC/USDN: 3PNi1BJendWYYe2CRnqpfLoYxUZ6UTcx3LF
 9) WCT/USDN: 3PMDFxmG9uXAbuQgiNogZCBQASvCHt1Mdar
+10) SIGN/USDN: 3P4Ftyud3U3xnuR8sTc1RvV4iQD62TcKndy
 
 ## Token ID's
 1) sUSDT_USD-N:  BNQ8bxyiWvfHzHAtNyfc6E7v3sSHXKq8yuit6Fnz1A3Q
@@ -21,6 +22,7 @@ Json for swop.fi
 7) sWAVES_WBTC: 2DiiWi3RLuTYBj81iwACCSayD9d1aY2ucfoJUBDHiqH8
 8) sUSD Coi_USD-N: 6en9RSUmqsh5j9sYeWYUvPM2r8QXVcwscdJorgdF3uxH
 9) sWavesCo_USD-N: AAmQ1M3pG9fP882RJdfeaoLbRtzBuwPmsximGhPXVQXN
+10) sSIGN_USD-N: CQpTLSuvKBtFo9BX4jNPopFnqCbE4VsqTcZrAwBgTTt5
 
 ## Token Decimals
 1) sUSDT_USD-N:  6 decimals
