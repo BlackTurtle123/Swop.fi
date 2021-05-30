@@ -23,6 +23,7 @@ Json for swop.fi
 8) sUSD Coi_USD-N: 6en9RSUmqsh5j9sYeWYUvPM2r8QXVcwscdJorgdF3uxH
 9) sWavesCo_USD-N: AAmQ1M3pG9fP882RJdfeaoLbRtzBuwPmsximGhPXVQXN
 10) sSIGN_USD-N: CQpTLSuvKBtFo9BX4jNPopFnqCbE4VsqTcZrAwBgTTt5
+11) sTurtleN_USD-N: 4kZ5zLkGweMSQZcsbaS4DCNsP4G4YXryJrbekvz1zoAF
 
 ## Token Decimals
 1) sUSDT_USD-N:  6 decimals
@@ -34,6 +35,7 @@ Json for swop.fi
 7) sWAVES_WBTC: 8 decimals
 8) sUSD Coi_USD-N: 6 decimals
 9) sWavesCo_USD-N: 4 decimals
+11) sTurtleN_USD-N: 7 decimals 
 
 ## Stake usdn/usdt token to farming pool
 
