@@ -199,3 +199,8 @@ String Value = pool dapp address
     }
 }
   ```
+## Checking how many tokens are staked
+The available amount for unstaking can be determined via the node API, by calling the following endpoint:
+```
+wget https://nodes.wavesexplorer.com/addresses/data/3P73HDkPqG15nLXevjCbmXtazHYTZbpPoPw/<pools-dapp-address>_<address-to-check>_share_tokens_locked
+````
