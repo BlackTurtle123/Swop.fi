@@ -199,6 +199,43 @@ String Value = pool dapp address
     }
 }
   ```
+## Voting for pool weight
+  ```
+{
+  "type": 16,
+  "version": 2,
+  "dApp": "3PQZWxShKGRgBN1qoJw6B4s9YWS9FneZTPg",
+  "call": {
+    "args": [
+      {
+        "type": "list",
+        "value": [
+          {
+            "type": "string",
+            "value": "3PCdNCULgjM9ZMLEt61M45qxV26ro6o48Jj"
+          }
+        ]
+      },
+      {
+        "type": "list",
+        "value": [
+          {
+            "type": "integer",
+            "value": "1"
+          }
+        ]
+      }
+    ],
+    "function": "votePoolWeight"
+  },
+  "payment": [],
+  "fee": 500000,
+  "feeAssetId": null,
+  "chainId": 87,
+  "proofs": []
+}
+  ```
+
 ## Checking how many tokens are staked
 The available amount for unstaking can be determined via the node API, by calling the following endpoint:
 ```
